@@ -172,4 +172,5 @@ predict_captcha("captcha_data/A9K3P.png")
 ## 👤 Author
 
 **Chakradhar Peddavenkatagari**  
-University at Buffalo
+Masters in Computer Science
+The State University of New York at Buffalo 
