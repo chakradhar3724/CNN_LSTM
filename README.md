@@ -55,14 +55,12 @@ You can download the dataset used in this project here:
 - Total Classes: `36`
 
 ### Dataset Structure
+```
 captcha_data/
-
 │── A9K3P.png
-
 │── Z4M8Q.jpg
-
 │── ...
-
+```
 
 > ⚠️ **Important Notes**
 > - All images must be placed inside the `captcha_data/` directory  
