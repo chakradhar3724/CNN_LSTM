@@ -1,4 +1,4 @@
-# CAPTCHA Recognition using CNN–LSTM Using PyTorch
+# CAPTCHA Recognition using CNN–LSTM (PyTorch)
 
 This project implements an **end-to-end CAPTCHA recognition system** using a hybrid **Convolutional Neural Network (CNN)** and **Bidirectional LSTM (Long Short-Term Memory)** architecture. The model is trained to recognize **5-character alphanumeric CAPTCHA images** and achieves **high character-level and full CAPTCHA accuracy**.
 
